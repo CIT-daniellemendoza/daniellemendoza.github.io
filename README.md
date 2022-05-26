@@ -1,3 +1,14 @@
+// >>: Replace initial README.md file with a list of each CIT 281 lab and project that includes some type of description of the purpose of the lab or project. Each list item should contain text that can be converted to a link to repos for each lab and project.
+
+## CIT 281 Projects and Labs
+- Project 1 [Lab 1]
+- Project 2 [Lab 2]
+- Project 3 [Lab 3, Lab 4]
+- Project 4 [Lab 5]
+- Project 5 
+- Project 6 [Lab 6, Lab 7]
+- Projec 7 [Lab 8, Lab 9] 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CIT-daniellemendoza/daniellemendoza.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
