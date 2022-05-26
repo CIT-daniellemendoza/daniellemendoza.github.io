@@ -1,4 +1,4 @@
-// >>: Replace initial README.md file with a list of each CIT 281 lab and project that includes some type of description of the purpose of the lab or project. Each list item should contain text that can be converted to a link to repos for each lab and project.
+![alt text](http://url/to/img.png)](https://www.elmhurst.edu/wp-content/uploads/2018/12/computer-information-systems-vs-information-technology-illustration.jpg)
 
 ## CIT 281 Projects
 - Project 1: Create folders in CLI, practice with ping, practice with Node.js
