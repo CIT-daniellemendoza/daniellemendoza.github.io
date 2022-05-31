@@ -1,4 +1,5 @@
-![alt text](http://url/to/img.png)](https://www.elmhurst.edu/wp-content/uploads/2018/12/computer-information-systems-vs-information-technology-illustration.jpg)
+![image](https://user-images.githubusercontent.com/67397853/171092608-0c3ba478-c2ce-4ddd-be91-567478708a39.png)
+
 
 ## CIT 281 Projects
 - [Project 1](https://github.com/CIT-daniellemendoza/cit281-p1): Create folders in CLI, practice with ping, practice with Node.js
