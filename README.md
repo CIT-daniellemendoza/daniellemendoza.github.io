@@ -6,7 +6,7 @@
 - [Project 3](https://github.com/CIT-daniellemendoza/cit281-p3): Fastify, GET verb, routes, query parameters, writing and executing web server
 - [Project 4](https://github.com/CIT-daniellemendoza/cit281-p4): REST API server, Fastify Get verb, code module testing without web server, Postman, JSON
 - [Project 5](https://github.com/CIT-daniellemendoza/cit281-p5): Monster Game (working with classes, class constructors, methods, Array map() and forEach()
-- [Project 6](https://github.com/CIT-daniellemendoza/cit281-p6: Classes and inheritence, shape methods, Non-web server Node.js Javascript code using VSCode
+- [Project 6](https://github.com/CIT-daniellemendoza/cit281-p6): Classes and inheritence, shape methods, Non-web server Node.js Javascript code using VSCode
 - Project 7: GitHub repos and pages, creating a CIT Minor portfolio for labs and projects
 
 ## CIT 281 Labs
@@ -26,22 +26,6 @@ You can use the [editor on GitHub](https://github.com/CIT-daniellemendoza/daniel
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
