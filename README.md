@@ -10,7 +10,7 @@
 - Project 7: GitHub repos and pages, creating a CIT Minor portfolio for labs and projects
 
 ## CIT 281 Labs
-- Lab 1: Software installation, practice with software, terminal, keyboard shortcuts, and creating first Node.js server-side Javascript file
+- [Lab 1](https://github.com/CIT-daniellemendoza/cit281-lab1): Software installation, practice with software, terminal, keyboard shortcuts, and creating first Node.js server-side Javascript file
 - Lab 2: CLI commands, learning git commands
 - Lab 3: Object deconstruction, arrow function expression, refactoring, for...in syntax (objects), for...of syntax (arrays)creating and importing Node.js models, spread operator
 - Lab 4: Fastify, Node Package Manager, MIME types, query parameters
