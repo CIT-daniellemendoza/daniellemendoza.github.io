@@ -8,7 +8,7 @@
 - [Project 4](https://cit-daniellemendoza.github.io/cit281-p4/): REST API server, Fastify Get verb, code module testing without web server, Postman, JSON
 - [Project 5](https://cit-daniellemendoza.github.io/cit281-p5/): Monster Game (working with classes, class constructors, methods, Array map() and forEach()
 - [Project 6](https://cit-daniellemendoza.github.io/cit281-p6/): Classes and inheritence, shape methods, Non-web server Node.js Javascript code using VSCode
-- Project 7: GitHub repos and pages, creating a CIT Minor portfolio for labs and projects
+- [Project 7](https://cit-daniellemendoza.github.io/cit281-p7/): GitHub repos and pages, creating a CIT Minor portfolio for labs and projects
 
 ## CIT 281 Labs
 - [Lab 1](https://cit-daniellemendoza.github.io/cit281-lab1/): Software installation, practice with software, terminal, keyboard shortcuts, and creating first Node.js server-side Javascript file
