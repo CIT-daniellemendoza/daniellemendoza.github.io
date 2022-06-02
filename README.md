@@ -25,5 +25,3 @@
 ### Jekyll Themes
 The saved Jekyll Theme selected is "Cayman", and is saved in the Jekyll `_config.yml` configuration file. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CIT-daniellemendoza/daniellemendoza.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
